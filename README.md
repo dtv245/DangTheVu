@@ -26,7 +26,7 @@
 
 ### Secondary Stack · Algorithms & Computer Vision
 
-Nền tảng vững về cấu trúc dữ liệu, giải thuật và thị giác máy tính, giúp mình viết code web có chiều sâu hơn.
+A solid grounding in data structures, algorithms, and computer vision that helps me write web code with more depth.
 
 [![Languages](https://skillicons.dev/icons?i=cpp,python,git,github,vscode&theme=dark)](https://skillicons.dev)
 
@@ -40,7 +40,7 @@ Nền tảng vững về cấu trúc dữ liệu, giải thuật và thị giác
 >
 > `91 commits` `9 domain modules` `EN / VI`
 >
-> ERP admin dashboard cho **nhân sự, đội xe và bảng lương**. Có luồng đa tenant, phân quyền theo vai trò, quản lý chuyến đi theo state machine (pending → assigned → accepted → started → completed), vòng đời hoá đơn kèm xuất PDF, và tính lương/thuế theo quy định Việt Nam (BHXH, PIT).
+> An ERP admin dashboard for **HR, fleet, and payroll management**. It features a multi-tenant flow, role-based access control, a trip state machine (pending → assigned → accepted → started → completed), an invoice lifecycle with PDF export, and payroll with Vietnamese social insurance (BHXH) and personal income tax (PIT) calculation.
 >
 > ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
@@ -59,23 +59,23 @@ Nền tảng vững về cấu trúc dữ liệu, giải thuật và thị giác
 
 > ### [FaceNet](https://github.com/dtv245/FaceNet)
 >
-> Dự án nhận diện khuôn mặt viết bằng Python, xoay quanh hướng tiếp cận FaceNet (face embedding).
+> A face recognition project in Python, built around the FaceNet approach (face embeddings).
 >
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-333?style=flat-square)
 
 ### Learning & Algorithms
 
-*Các repo luyện tập nền tảng bằng C++.*
+*Fundamentals practiced in C++.*
 
-> ### [1000 bài code thiếu nhi](https://github.com/dtv245/1000baicodethieunhi)
+> ### [1000 Beginner Coding Exercises](https://github.com/dtv245/1000baicodethieunhi)
 >
-> Bộ bài tập lập trình C++ cơ bản, luyện tư duy và cú pháp.
+> A collection of beginner-level C++ exercises to build problem-solving skills and syntax fluency.
 >
 > ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-> ### [Cấu trúc dữ liệu và giải thuật](https://github.com/dtv245/cautrucdulieuvagiaithuat)
+> ### [Data Structures & Algorithms](https://github.com/dtv245/cautrucdulieuvagiaithuat)
 >
-> Cài đặt các cấu trúc dữ liệu và giải thuật kinh điển bằng C++.
+> Implementations of classic data structures and algorithms in C++.
 >
 > ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-333?style=flat-square)
 
@@ -88,14 +88,14 @@ Nền tảng vững về cấu trúc dữ liệu, giải thuật và thị giác
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dtv245&theme=github-dark&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dtv245&theme=github-dark&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
 ### Let's Connect
 
-Mình đang tìm cơ hội **Full Stack / Frontend Developer** và sẵn sàng trao đổi về **React**, **TypeScript**, **ERP/dashboard**, hoặc **thuật toán & computer vision**.
+I'm open to **Full Stack / Frontend Developer** opportunities and happy to talk about **React**, **TypeScript**, **ERP and dashboard design**, or **algorithms and computer vision**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dangthevu-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
