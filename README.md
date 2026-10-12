@@ -1,170 +1,109 @@
-<!-- ============ HEADER (capsule-render banner) ============
-  Đổi text=, desc=, và dải màu color=0:HEX,50:HEX,100:HEX
-  Khoảng trắng viết là %20, dấu chấm giữa viết là %C2%B7 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=YOUR%20NAME&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Your%20Role%20%C2%B7%20Focus%20Area%201%20%C2%B7%20Focus%20Area%202&descSize=18&descAlignY=55&descColor=8b949e" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Dang%20The%20Vu&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20Hanoi%2C%20Vietnam&descSize=18&descAlignY=55&descColor=8b949e" alt="Dang The Vu" />
 </p>
 
-<!-- Tuỳ chọn: ảnh SVG động kiểu "terminal" tự thiết kế, đặt trong assets/terminal-intro.svg -->
-<!-- <p align="center"><img src="assets/terminal-intro.svg" alt="Terminal Introduction" /></p> -->
-
-<!-- ============ LIÊN KẾT NHANH (badge for-the-badge) ============ -->
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/yourportfolio.com-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://t.me/YOUR_HANDLE"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://buymeacoffee.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+  <a href="https://www.linkedin.com/in/dangthevu-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/blu.vu.520/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://x.com/ang_vu24"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## Primary Stack · Your Main Focus
+## Primary Stack · Full Stack Web
 
-<!-- Danh sách icon: https://skillicons.dev (ghi tên cách nhau bằng dấu phẩy) -->
-[![Core](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,ts,vite,tailwind,sass&theme=dark)](https://skillicons.dev)
 
-<!-- Badge nhỏ (flat-square) cho các công cụ không có trong skillicons -->
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![Refine](https://img.shields.io/badge/Refine-14141F?style=flat-square&logo=refine&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-`keyword one` `keyword two` `keyword three` `keyword four`
+`admin dashboards` `ERP` `multi-tenant` `RBAC` `i18n (EN/VI)` `REST integration`
 
-### Secondary Stack · Software Engineering
+### Secondary Stack · Algorithms & Computer Vision
 
-Một câu ngắn mô tả kinh nghiệm, ví dụ: *N years of production work, now mostly in service of …*
+Nền tảng vững về cấu trúc dữ liệu, giải thuật và thị giác máy tính, giúp mình viết code web có chiều sâu hơn.
 
-[![Languages and backend](https://skillicons.dev/icons?i=cs,ts,cpp,kotlin,fastapi,nodejs&theme=dark)](https://skillicons.dev)  
-[![Frontend, data and cloud](https://skillicons.dev/icons?i=react,nextjs,angular,postgres,redis,docker,kubernetes,aws&theme=dark)](https://skillicons.dev)
-
----
-
-## Research
-
-Một đoạn tóm tắt hướng nghiên cứu của bạn.
-Danh sách đầy đủ: **[yourportfolio.com/research](https://yourportfolio.com/research)** · [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)
-
-### Publications
-
-> ### Paper Title One
->
-> [![arXiv](https://img.shields.io/badge/arXiv-0000.00000-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/0000.00000) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/paper-one) [![Data](https://img.shields.io/badge/🤗_Data-FFD21E?style=flat-square)](https://huggingface.co/datasets/YOUR_USERNAME/dataset)
->
-> Mô tả 1–2 câu: bài toán là gì, cách làm khác biệt ở đâu.
->
-> **Dataset** · 51 plates · 3M+ images
->
-> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Contrastive](https://img.shields.io/badge/Contrastive-333?style=flat-square)
-
-> ### Paper Title Two
->
-> [![arXiv](https://img.shields.io/badge/arXiv-0000.00000-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/0000.00000) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/paper-two)
->
-> Mô tả 1–2 câu.
->
-> **6 models** · 196 samples · metric được đánh giá
->
-> ![Tag](https://img.shields.io/badge/Tag_1-333?style=flat-square) ![Tag](https://img.shields.io/badge/Tag_2-333?style=flat-square)
-
-### Applied Work
-
-Câu giới thiệu ngắn, ví dụ: *Models built against real inputs rather than a clean benchmark split.*
-
-> ### [Project Name](https://github.com/YOUR_USERNAME/project-name)
->
-> Mô tả dự án trong 2–3 câu, nêu rõ dự án làm gì và điểm đặc biệt.
->
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-### Coursework
-
-*Kept separate from the published work above.*
-
-> ### [Course Project](https://github.com/YOUR_USERNAME/course-project)
->
-> Mô tả kèm **con số cụ thể** (params, tốc độ, độ chính xác…) để tạo ấn tượng.
->
-> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=cpp,python,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
-## Software Engineering
+## Featured Project
 
-[![Users](https://img.shields.io/badge/YourApp-60K%2B_users-1f6feb?style=for-the-badge&logo=rocket&logoColor=white)](https://yourapp.com)
-[![Projects](https://img.shields.io/badge/Shipped-10%2B_projects-1f6feb?style=for-the-badge&logo=rocket&logoColor=white)](#)
-[![Upwork](https://img.shields.io/badge/Upwork-100%25_job_success-1f6feb?style=for-the-badge&logo=upwork&logoColor=white)](#)
+> ### [Ship ERP — Admin Dashboard](https://github.com/dtv245/Ship-app)
+>
+> [![Source](https://img.shields.io/badge/-Source-181717?style=flat-square&logo=github)](https://github.com/dtv245/Ship-app)
+>
+> `91 commits` `9 domain modules` `EN / VI`
+>
+> ERP admin dashboard cho **nhân sự, đội xe và bảng lương**. Có luồng đa tenant, phân quyền theo vai trò, quản lý chuyến đi theo state machine (pending → assigned → accepted → started → completed), vòng đời hoá đơn kèm xuất PDF, và tính lương/thuế theo quy định Việt Nam (BHXH, PIT).
+>
+> ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-> ### [Product Name](https://yourproduct.app)
->
-> [![Source](https://img.shields.io/badge/-Source-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/product)
->
-> `60K+ users` `1K+ DAU`
->
-> Mô tả sản phẩm, tính năng chính, và **kiến trúc nổi bật**.
->
-> ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-> ### [Another Product](https://anotherproduct.com)
->
-> Mô tả ngắn gọn.
->
-> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+| Module | Highlights |
+| --- | --- |
+| **HR** | Companies, offices, departments, positions, employees |
+| **Fleet & Drivers** | Vehicles, assignments, driver scheduling (calendar + bulk) |
+| **Trips & Invoices** | Trip state machine, invoice lifecycle, PDF export |
+| **Payroll** | Monthly batches, payslips, Vietnamese tax calculation |
+| **Workforce Ops** | Attendance, leave, overtime, violations with approval flows |
+| **Access & Reports** | Role-based permissions, revenue analytics by office |
 
 ---
 
-## Games
+## Other Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://store.steampowered.com/app/XXXX"><b>Game / Mod Name</b></a><br />
-      Mô tả một dòng.<br />
-      <a href="https://store.steampowered.com/app/XXXX">Steam</a> · <a href="https://github.com/YOUR_USERNAME/game">Releases</a>
-    </td>
-    <td width="50%">
-      <a href="https://yourgame.io"><b>Game Name (MMO)</b></a><br />
-      Mô tả một dòng.<br />
-      <a href="https://yourgame.io">Play</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/YOUR_USERNAME/game-3"><b>Game 3</b></a><br />
-      Mô tả một dòng.<br />
-      <a href="https://github.com/YOUR_USERNAME/game-3">Repo</a>
-    </td>
-    <td>
-      <a href="https://github.com/YOUR_USERNAME/game-4"><b>Game 4</b></a><br />
-      Mô tả một dòng.<br />
-      <a href="https://github.com/YOUR_USERNAME/game-4">Repo</a>
-    </td>
-  </tr>
-</table>
+> ### [FaceNet](https://github.com/dtv245/FaceNet)
+>
+> Dự án nhận diện khuôn mặt viết bằng Python, xoay quanh hướng tiếp cận FaceNet (face embedding).
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-333?style=flat-square)
+
+### Learning & Algorithms
+
+*Các repo luyện tập nền tảng bằng C++.*
+
+> ### [1000 bài code thiếu nhi](https://github.com/dtv245/1000baicodethieunhi)
+>
+> Bộ bài tập lập trình C++ cơ bản, luyện tư duy và cú pháp.
+>
+> ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+> ### [Cấu trúc dữ liệu và giải thuật](https://github.com/dtv245/cautrucdulieuvagiaithuat)
+>
+> Cài đặt các cấu trúc dữ liệu và giải thuật kinh điển bằng C++.
+>
+> ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-333?style=flat-square)
 
 ---
 
 ## GitHub Activity
 
-<!-- Ảnh này do GitHub Action tạo mỗi ngày, xem .github/workflows/metrics.yml -->
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dtv245&theme=github-dark&hide_border=true" alt="Streak" />
 </p>
 
 ---
 
 ### Let's Connect
 
-Open to **collaboration type 1** and **collaboration type 2**. Happy to talk about **topic A**, **topic B**, or **topic C**.
+Mình đang tìm cơ hội **Full Stack / Frontend Developer** và sẵn sàng trao đổi về **React**, **TypeScript**, **ERP/dashboard**, hoặc **thuật toán & computer vision**.
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=YOUR_ID"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/dangthevu-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/blu.vu.520/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://x.com/ang_vu24"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<!-- ============ FOOTER ============ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" alt="Footer" />
 </p>
